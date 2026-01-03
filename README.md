@@ -29,7 +29,7 @@ The BBB filters 98% of small-molecule drugs. This paper explores:
 
 Targeting the **Warburg Effect** to deprive tumor cells of glucose-driven ATP.
 
-           *GKI = [Glucose (mg/dL) / 18] / [Ketones (mmol/L)]*
+            GKI = [Glucose (mg/dL) / 18] / [Ketones (mmol/L)]
   
   **Target Range: 1.0 – 2.0**
   
@@ -47,7 +47,7 @@ If you use this research or the GKI modeling in your work, please cite it as:
   author={Samuelson, G.},
   journal={medRxiv Preprint},
   year={2026},
-  url={[Your ResearchGate](https://www.researchgate.net/profile/Samuelson-G-Godwin?ev=hdr_xprf)/[medRxiv Link Here](https://submit.medrxiv.org/submission/registration2)}
+  url={[ResearchGate](https://www.researchgate.net/profile/Samuelson-G-Godwin?ev=hdr_xprf)/[medRxiv Link](https://submit.medrxiv.org/submission/registration2)}
 }
 
 ## ⚖️ License
