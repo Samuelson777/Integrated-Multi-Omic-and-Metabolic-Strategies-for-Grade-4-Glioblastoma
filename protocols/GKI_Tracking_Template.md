@@ -8,7 +8,7 @@
 
 To maintain consistency in your data, always use the molar ratio. If your meter provides glucose in **mg/dL,** use this formula:
 
-             GKI = (Glucose mg/dL/18.016) / Ketones mmol/L
+             GKI = (Glucose mg/dL/18.016) / (Ketones mmol/L)
 
 ## 2. Daily Log Template (Spreadsheet Columns)
 
