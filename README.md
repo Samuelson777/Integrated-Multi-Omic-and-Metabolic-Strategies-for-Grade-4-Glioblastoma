@@ -1,9 +1,11 @@
 # Integrated Multi-Omic and Metabolic Strategies for Grade 4 Glioblastoma
 
+[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.16997.05603-blue)](https://doi.org/10.13140/RG.2.2.12493.09440)  
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 👤 Author
 
-Samuelson G. Independent Researcher---
+Samuelson G. Independent Researcher
 
 ## 📄 Abstract
 
